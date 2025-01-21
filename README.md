@@ -40,5 +40,5 @@ This JSON file is structured to
 
 # Referenced Links
 
-* [Microsoft Documentation](https://learn.microsoft.com/en-us/mem/intune/apps/configure-microsoft-launcher)
+* [Configure Microsoft Launcher](https://learn.microsoft.com/en-us/mem/intune/apps/configure-microsoft-launcher)
 * [Standardise Android layouts using Microsoft Launcher](https://letsconfigmgr.com/mem-standardise-android-layouts-using-microsoft-launcher)

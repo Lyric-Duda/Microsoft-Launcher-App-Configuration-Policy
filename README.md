@@ -34,7 +34,6 @@ These JSON files are structured to
 #### This shows how the Android Phone sets the home screen based on the Microsoft Launcher.json
 
 ![Android Home Screen Application Layout](https://ldgithubimages.blob.core.windows.net/githubandroidreadmeimages/Microsoft%20Launcher/Android%20Home%20Screen%20Application%20Layout%20-%20270%20x%20600.png)
-![Android Home Screen Application Layout](https://ldgithubimages.blob.core.windows.net/githubandroidreadmeimages/Microsoft%20Launcher/Android%20Home%20Screen%20Application%20Layout%20-%20270%20x%20600.png)
 
 ## MS365 Feed
 

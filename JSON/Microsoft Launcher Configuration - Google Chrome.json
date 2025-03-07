@@ -208,18 +208,6 @@
                             "valueString": ""
                         }
                     ]
-                },
-                {
-                    "managedProperty": [
-                        {
-                            "key": "package",
-                            "valueString": "com.bomgar.thinclient.android"
-                        },
-                        {
-                            "key": "class",
-                            "valueString": ""
-                        }
-                    ]
                 }
             ]
         },
@@ -691,38 +679,6 @@
                         {
                             "key": "package",
                             "valueString": "com.microsoft.skydrive"
-                        },
-                        {
-                            "key": "class",
-                            "valueString": ""
-                        },
-                        {
-                            "key": "label",
-                            "valueString": ""
-                        },
-                        {
-                            "key": "link",
-                            "valueString": ""
-                        },
-                        {
-                            "key": "Content.UserChangeAllowed",
-                            "valueBool": true
-                        }
-                    ]
-                },
-                {
-                    "managedProperty": [
-                        {
-                            "key": "type",
-                            "valueString": "application"
-                        },
-                        {
-                            "key": "position",
-                            "valueInteger": 6
-                        },
-                        {
-                            "key": "package",
-                            "valueString": "com.bomgar.thinclient.android"
                         },
                         {
                             "key": "class",
